@@ -1,2 +1,3 @@
-MementoPattern/bin/*
-MementoPattern/obj/*
+*/bin/*
+*/obj/*
+.idea/
